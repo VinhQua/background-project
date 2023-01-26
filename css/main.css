@@ -62,22 +62,24 @@ footer {
   header {
     background-color: orange;
   }
-
+ 
   #column-1 {
-    background-color: ghostwhite;
-    width: 50%;
+    background-color: maroon;
+
   }
 
   #column-2 {
     background-color:hotpink ;
-    width: 50%;
+
   }
 
   #column-3 {
     background-color: khaki;
-    width: 100%;
+  
   }
-
+ .col-3{
+    width: 50%;
+  }
   footer {
     background-color:lawngreen ;
   }
@@ -90,22 +92,24 @@ footer {
   header {
     background-color: black ;
   }
- 
+  
   #column-1 {
     background-color:purple ;
-    width: 33.33%;
+
   }
 
   #column-2 {
     background-color: orange;
-    width: 33.33%;
+
   }
 
   #column-3 {
     background-color:yellowgreen ;
+   
+  }
+.col-3{
     width: 33.33%;
   }
-
   
   footer {
     background-color: blue;
